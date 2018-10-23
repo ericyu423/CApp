@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 void main(){
     runApp(
 
-      MaterialApp(//test push
+      MaterialApp(//testing 
         title: "US Citizenship Prep",
         home: Material(
           color: Colors.white,
